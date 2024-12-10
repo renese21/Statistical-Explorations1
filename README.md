@@ -7,4 +7,4 @@ This is a repository to store notebooks for reference to perform **statistical c
 ###
 Project:
 
-![descriptive stats](descriptive_stats(2).ipynb)
+![descriptive stats](descriptivestats.ipynb)
